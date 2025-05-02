@@ -116,3 +116,5 @@ Dataset: The CICDDoS2019 dataset, developed by the Canadian Institute for Cybers
   - False Positives: 9
   - True Negatives: 11218
   - False Negatives: 13
+ 
+Note: This is the first combination model  using Transformers and CNNs for DDoS/NIDS for cybersecurity. 
